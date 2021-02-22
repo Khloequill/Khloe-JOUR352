@@ -1,3 +1,6 @@
+/* Styles for my resume */
+
+/* All paragraphs */
 body {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1em;
@@ -5,6 +8,10 @@ body {
   font-weight: 400;
 }
 
+/* Photo somewhere in here */
+
+
+/* Banner name at top */
 h1 {
   font-size: 3em;
   color: #33485e;
@@ -13,6 +20,8 @@ h1 {
 
 }
 
+
+/* Subheadings like Experience/Edu Etc */
 h2 {
   font-size: 5em;
   text-transform: uppercase;
@@ -22,18 +31,24 @@ h2 {
 
 }
 
+
+/* Job Titles */
 h3 {
   font-weight: 600;
   font-size: 1.5em;
 
 }
 
+
+/* Job Organization */
 h4 {
   font-weight: 400;
   font-size: 1.5em;
 
 }
 
+
+/* Job Dates */
 h5 {
   font-weight: 400;
   font-style: italic;
@@ -41,7 +56,8 @@ h5 {
 
 }
 
+/* Contact info, Skills, Education etc */
 li {
   font-size: 1em;
-  
+
 }
