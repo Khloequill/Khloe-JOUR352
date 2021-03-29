@@ -1,0 +1,22 @@
+/* whole page */
+#content {
+  margin: 0 auto;
+  width: 900px;
+
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
+
+blockquote {
+  font-size: 24px;
+
+}
