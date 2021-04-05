@@ -1,0 +1,141 @@
+
+#icons {
+  float: left;
+}
+
+#content {
+  margin: 0 auto;
+  width: 900px;
+
+}
+
+p {
+  font-family: Futura, sans-serif;
+  font-size: 13px;
+  text-align: left;
+  font-style: italic;
+}
+
+button {
+  background-color: #A7997D; /* tan */
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a:link {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.share {
+  color: #A7997D;
+}
+
+li {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  text-align: left;
+
+}
+
+
+h2 {
+   width: 100%;
+   text-align: center;
+   border-bottom: 1px solid #000;
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+   font-family: Helvetica, sans-serif;
+   letter-spacing: .7px;
+}
+
+h2 span {
+    background:#fff;
+    padding:0 10px;
+}
+
+#recentwork {
+  border: 1px solid #000;
+  border-radius: 20px;
+  padding: 5px;
+  width: 100px;
+  height: 400px;
+}
+
+/* font awesome */
+i {
+  /* top right bottom left */
+  padding: 20px 20px 20px 0px;
+  color: #A7997D;
+
+}
+
+/* experience section */
+/* Job Titles */
+.jobtitle {
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: Helvetica, serif;
+  letter-spacing: .7px;
+
+}
+
+
+/* Job Organization */
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+  letter-spacing: .7px;
+
+}
+
+
+/* Job Dates */
+.date {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+  /*boop boop margin practic*/
+  margin-top: 2px 0px 0px 0px;
+  letter-spacing: .7px;
+
+}
+
+.description {
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  text-align: left;
+  padding: 0px 0px 10px 0px;
+
+
+}
+
+.schooling {
+  font-family: Helvetica, sans-serif;
+  font-size: 1em;
+  text-align: left;
+  padding: 0px 0px 10px 0px;
+}
+
+/* navbar stuff */
+.navbar-brand {
+  font-family: Helvetica, sans-serif;
+  letter-spacing: 1.5px;
+}
+
+.nav-link {
+  font-family: Helvetica, sans-serif;
+  letter-spacing: 1.5px;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px;
+}
