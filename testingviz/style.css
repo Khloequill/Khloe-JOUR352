@@ -1,0 +1,192 @@
+
+#icons {
+  float: left;
+}
+
+#content {
+  margin: 0 auto;
+  width: 900px;
+
+}
+
+p {
+  font-family: "Times New Roman", sans-serif;
+  font-size: 15px;
+  text-align: left;
+  line-height: 2em;
+}
+
+button {
+  background-color: #A7997D; /* tan */
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a:link {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.share {
+  color: #A7997D;
+}
+
+li {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  text-align: left;
+
+}
+
+
+h2 {
+   width: 100%;
+   text-align: center;
+   margin: 10px 0 20px;
+   font-family: Helvetica, sans-serif;
+   letter-spacing: .7px;
+}
+
+h2 span {
+    background:#E3E3E3;
+    padding:0 10px;
+    border-bottom: 1px solid #000
+
+}
+
+#recentwork {
+  border: 1px solid #000;
+  border-radius: 20px;
+  padding: 5px;
+  width: 100px;
+  height: 400px;
+}
+
+/* font awesome */
+i {
+  /* top right bottom left */
+  padding: 20px 20px 20px 0px;
+  color: #A7997D;
+
+}
+
+/* experience section */
+/* Job Titles */
+.jobtitle {
+  font-weight: bold;
+  font-size: 1.5em;
+  font-family: Helvetica, serif;
+  letter-spacing: .7px;
+
+}
+
+
+/* Job Organization */
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+  letter-spacing: .7px;
+
+}
+
+
+/* Job Dates */
+.date {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1em;
+  /*boop boop margin practic*/
+  margin-top: 2px 0px 0px 0px;
+  letter-spacing: .7px;
+
+}
+
+.description {
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  text-align: left;
+  padding: 0px 0px 10px 0px;
+
+
+}
+
+.schooling {
+  font-family: Helvetica, sans-serif;
+  font-size: 1em;
+  text-align: left;
+  padding: 0px 0px 10px 0px;
+}
+
+/* navbar stuff */
+.navbar-brand {
+  font-family: Helvetica, sans-serif;
+  letter-spacing: 1.5px;
+
+}
+
+.nav-link {
+  font-family: Helvetica, sans-serif;
+  letter-spacing: 1.5px;
+
+}
+
+.footer {
+  text-align: center;
+  padding: 10px;
+}
+
+.jumbotron {
+  background-image: url("jumbotronimg.png");
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+
+body {
+  background-color: #E3E3E3;
+}
+
+.masttitle{
+  text-align: center;
+  color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 5px 5px 5px #000;
+  font-size: 4em;
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
+
+blockquote {
+  font-size: 24px;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+
+}
+
+@media (max-width: 320px) {
+.element {
+      width: 90%;
+     }
+}
+
+.text-center {
+  text-align: center;
+}
